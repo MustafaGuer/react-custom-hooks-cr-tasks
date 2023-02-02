@@ -1,7 +1,7 @@
 import { useState } from "react";
 
 import Section from "../UI/Section";
-import TaskForm from "./TaskForm";
+import TaskForm from "./TaskForm/TaskForm";
 import { url } from "../../const/url";
 
 const NewTask = (props) => {

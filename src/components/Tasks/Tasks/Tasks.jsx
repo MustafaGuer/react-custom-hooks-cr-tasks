@@ -1,5 +1,5 @@
-import Section from "../UI/Section";
-import TaskItem from "./TaskItem";
+import Section from "../../UI/Section";
+import TaskItem from "../TaskItem/TaskItem";
 import classes from "./Tasks.module.css";
 
 const Tasks = (props) => {

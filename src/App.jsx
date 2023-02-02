@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 
-import Tasks from "./components/Tasks/Tasks";
+import Tasks from "./components/Tasks/Tasks/Tasks";
 import NewTask from "./components/NewTask/NewTask";
 import { url } from "./const/url";
 
